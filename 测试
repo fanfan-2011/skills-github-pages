@@ -1,7 +1,44 @@
-<header>
+# 我的第一个Markdown博客文章
 
-<!--
-<<<Author notes:Course header>>>
- Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-Recently, a simple study of fnOS is being conducted.
--->
+## 发布日期：2024-01-01
+
+### 作者：Kimi
+
+---
+
+## 简介
+
+这是一篇介绍Markdown格式的博客文章。Markdown是一种非常方便的轻量级标记语言，它允许人们使用易读易写的纯文本格式编写文档。
+
+## Markdown的基本用法
+
+### 标题
+
+Markdown支持六级标题，通过在文字前加上不同数量的`#`来实现：
+
+# 这是一级标题
+## 这是二级标题
+### 这是三级标题
+#### 这是四级标题
+##### 这是五级标题
+###### 这是六级标题
+
+### 列表
+
+- 这是无序列表的第一项
+- 这是无序列表的第二项
+
+1. 这是有序列表的第一项
+2. 这是有序列表的第二项
+
+### 强调
+
+*这是斜体文本*
+**这是粗体文本**
+
+### 链接和图片
+
+[这是一个链接](http://example.com)
+![这是图片的替代文本](http://example.com/image.jpg)
+
+### 代码
